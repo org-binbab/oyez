@@ -1,3 +1,6 @@
 [submodule "php"]
 	path = php
 	url = git://github.com/org-binbab/oyez-php.git
+[submodule "ruby"]
+	path = ruby
+	url = https://github.com/org-binbab/oyez-ruby
